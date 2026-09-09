@@ -32,5 +32,5 @@ Durante o desenvolvimento, a estrutura original do jogo foi refatorada e expandi
 
 ## Screenshots
 
-![IMG1](./src/images/1.png)
-![IMG2](./src/images/2.png)
+![IMG1](./src/main/resources/images/1.png)
+![IMG2](./src/main/resources/images/2.png)
